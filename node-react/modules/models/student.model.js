@@ -49,10 +49,10 @@ Student.create = (newStudent, result)=>{
 }
 
 Student.updateById = (id, student, result) => {
-    
+ 
   conn.query(
-    "UPDATE students_tbl SET fname_fld = ?, lname_fld = ? WHERE studnum_fld = ?",
-    [student.fname_fld, student.lname_fld, id],
+    "UPDATE students_tbl SET ? WHERE studnum_fld = ?",
+    [student,id],
     (err, res) => {
       if (err) {
         console.log("error: ", err);

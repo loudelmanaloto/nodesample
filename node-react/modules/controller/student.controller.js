@@ -8,14 +8,7 @@ exports.create = (req, res) => {
     }
 
 
-
-const student = new Students({
-    studnum_fld: req.body.studnum_fld,
-    fname_fld: req.body.fname_fld,
-    lname_fld: req.body.lname_fld
-})
-
-Students.create(student, (err, data)=>{
+Students.create(req.body, (err, data)=>{
     if(err)
         res.status(500).send({
             message: err.message || "Some error occured while creating student"
@@ -64,7 +57,7 @@ exports.update = (req, res) => {
   
     Students.updateById(
       req.params.studentId,
-      new Students(req.body),
+      req.body,
       (err, data) => {
         if (err) {
           if (err.kind === "not_found") {
