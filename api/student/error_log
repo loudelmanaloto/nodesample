@@ -1,0 +1,134 @@
+[15-Aug-2020 14:13:02 Asia/Manila] PHP Notice:  Undefined index: data in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Post.php on line 60
+[15-Aug-2020 14:13:02 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Post.php on line 60
+[15-Aug-2020 14:13:02 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Post.php on line 60
+[15-Aug-2020 14:52:07 Asia/Manila] PHP Notice:  Undefined index: data in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Post.php on line 60
+[15-Aug-2020 14:52:07 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Post.php on line 60
+[15-Aug-2020 14:52:07 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Post.php on line 60
+[15-Aug-2020 16:53:23 Asia/Manila] PHP Notice:  Undefined index: data in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Post.php on line 60
+[15-Aug-2020 16:53:23 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Post.php on line 60
+[15-Aug-2020 16:53:23 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Post.php on line 60
+[15-Aug-2020 17:01:32 Asia/Manila] PHP Notice:  Undefined index: data in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Post.php on line 60
+[15-Aug-2020 17:01:32 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Post.php on line 60
+[15-Aug-2020 17:01:32 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Post.php on line 60
+[24-Aug-2020 21:03:34 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 21:04:08 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 21:05:21 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 21:05:40 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 21:06:20 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 21:06:25 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 21:06:38 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 21:12:56 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 21:13:08 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 21:13:12 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 21:14:19 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 21:15:17 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 21:15:39 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 21:16:04 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 21:16:55 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 21:19:48 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 21:22:12 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 21:27:55 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 21:27:59 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 21:28:10 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 21:28:21 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 21:28:27 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 21:29:16 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 21:30:02 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 21:31:35 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 21:32:29 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 21:38:26 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 21:40:07 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 21:41:05 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 21:41:33 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 21:42:11 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 21:42:14 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 21:44:51 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 21:45:21 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 22:04:41 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 22:05:20 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 22:05:37 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 22:06:28 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 22:08:40 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 22:10:54 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 22:11:01 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 22:11:26 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 22:11:31 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 22:12:37 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 22:12:40 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 22:13:04 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 22:13:11 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 22:15:05 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 22:15:09 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 22:15:18 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 22:15:22 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 22:15:28 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 22:19:27 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 22:19:46 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 22:19:54 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 22:19:59 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 22:20:15 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[24-Aug-2020 22:20:22 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Auth.php on line 182
+[01-Sep-2020 14:02:35 Asia/Manila] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Get::getstudentworks(), 1 passed in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/main.php on line 218 and exactly 2 expected in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Get.php:491
+Stack trace:
+#0 /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/main.php(218): Get->getstudentworks('201710241')
+#1 {main}
+  thrown in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Get.php on line 491
+[01-Sep-2020 14:06:03 Asia/Manila] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Get::getstudentworks(), 1 passed in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/main.php on line 218 and exactly 2 expected in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Get.php:491
+Stack trace:
+#0 /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/main.php(218): Get->getstudentworks('201710241')
+#1 {main}
+  thrown in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Get.php on line 491
+[01-Sep-2020 14:07:02 Asia/Manila] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Get::getstudentworks(), 1 passed in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/main.php on line 218 and exactly 2 expected in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Get.php:491
+Stack trace:
+#0 /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/main.php(218): Get->getstudentworks('201511129')
+#1 {main}
+  thrown in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Get.php on line 491
+[01-Sep-2020 14:07:56 Asia/Manila] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Get::getstudentworks(), 1 passed in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/main.php on line 218 and exactly 2 expected in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Get.php:491
+Stack trace:
+#0 /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/main.php(218): Get->getstudentworks('201511129')
+#1 {main}
+  thrown in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Get.php on line 491
+[01-Sep-2020 14:08:38 Asia/Manila] PHP Notice:  Undefined offset: 2 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/main.php on line 217
+[01-Sep-2020 14:09:01 Asia/Manila] PHP Notice:  Undefined offset: 2 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/main.php on line 217
+[01-Sep-2020 14:17:51 Asia/Manila] PHP Notice:  Undefined offset: 2 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/main.php on line 217
+[01-Sep-2020 14:17:58 Asia/Manila] PHP Notice:  Undefined offset: 2 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/main.php on line 217
+[01-Sep-2020 18:25:45 Asia/Manila] PHP Notice:  Undefined offset: 2 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/main.php on line 217
+[02-Sep-2020 07:05:58 Asia/Manila] PHP Notice:  Undefined offset: 2 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/main.php on line 217
+[02-Sep-2020 15:21:12 Asia/Manila] PHP Notice:  Undefined offset: 2 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/main.php on line 217
+[02-Sep-2020 15:48:01 Asia/Manila] PHP Notice:  Undefined offset: 2 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/main.php on line 217
+[02-Sep-2020 16:24:18 Asia/Manila] PHP Notice:  Undefined offset: 2 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/main.php on line 217
+[02-Sep-2020 16:25:09 Asia/Manila] PHP Notice:  Undefined offset: 2 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/main.php on line 217
+[02-Sep-2020 16:26:15 Asia/Manila] PHP Notice:  Undefined offset: 2 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/main.php on line 217
+[02-Sep-2020 16:26:55 Asia/Manila] PHP Notice:  Undefined offset: 2 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/main.php on line 217
+[02-Sep-2020 16:28:09 Asia/Manila] PHP Notice:  Undefined offset: 2 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/main.php on line 217
+[02-Sep-2020 16:28:27 Asia/Manila] PHP Notice:  Undefined offset: 2 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/main.php on line 217
+[02-Sep-2020 16:29:15 Asia/Manila] PHP Notice:  Undefined offset: 2 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/main.php on line 217
+[02-Sep-2020 16:29:36 Asia/Manila] PHP Notice:  Undefined offset: 2 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/main.php on line 217
+[02-Sep-2020 16:30:05 Asia/Manila] PHP Notice:  Undefined offset: 2 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/main.php on line 217
+[02-Sep-2020 16:31:45 Asia/Manila] PHP Notice:  Undefined offset: 2 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/main.php on line 217
+[09-Sep-2020 15:19:10 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/config/Connection.php:30
+Stack trace:
+#0 /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/config/Connection.php(30): PDO->__construct('mysql:host=loca...', 'gordonco_gcdeve...', '7uQ(5kx&0E;4', Array)
+#1 /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/main.php(10): Connection->connect()
+#2 {main}
+  thrown in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/config/Connection.php on line 30
+[09-Sep-2020 15:19:10 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/config/Connection.php:30
+Stack trace:
+#0 /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/config/Connection.php(30): PDO->__construct('mysql:host=loca...', 'gordonco_gcdeve...', '7uQ(5kx&0E;4', Array)
+#1 /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/main.php(10): Connection->connect()
+#2 {main}
+  thrown in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/config/Connection.php on line 30
+[13-Sep-2020 17:08:18 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Post.php on line 79
+[13-Sep-2020 17:33:29 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Post.php on line 79
+[14-Sep-2020 18:58:23 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Post.php on line 79
+[17-Sep-2020 09:29:26 Asia/Manila] PHP Notice:  Undefined property: stdClass::$postcode_fld in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Post.php on line 146
+[17-Sep-2020 09:29:37 Asia/Manila] PHP Notice:  Undefined property: stdClass::$postcode_fld in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Post.php on line 146
+[18-Sep-2020 21:53:59 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Post.php on line 79
+[18-Sep-2020 21:54:02 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Post.php on line 79
+[18-Sep-2020 21:54:04 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Post.php on line 79
+[18-Sep-2020 21:54:07 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Post.php on line 79
+[18-Sep-2020 21:54:07 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Post.php on line 79
+[18-Sep-2020 21:54:07 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Post.php on line 79
+[18-Sep-2020 21:54:07 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Post.php on line 79
+[18-Sep-2020 21:54:08 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Post.php on line 79
+[18-Sep-2020 21:54:08 Asia/Manila] PHP Notice:  Undefined property: stdClass::$param1 in /home/gordonco/api.gordoncollegeccs.edu.ph/lms/student/models/Post.php on line 79

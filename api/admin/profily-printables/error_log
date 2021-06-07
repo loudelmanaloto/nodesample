@@ -1,0 +1,120 @@
+[12-Aug-2020 07:27:04 Asia/Manila] PHP Notice:  Undefined variable: idNumber in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 60
+[12-Aug-2020 07:27:04 Asia/Manila] PHP Notice:  Undefined variable: semester in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 67
+[12-Aug-2020 07:27:04 Asia/Manila] PHP Notice:  Undefined variable: semester in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 69
+[12-Aug-2020 07:27:04 Asia/Manila] PHP Notice:  Undefined variable: academicYear in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 75
+[12-Aug-2020 07:27:04 Asia/Manila] PHP Notice:  Undefined variable: semester in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 80
+[12-Aug-2020 07:27:04 Asia/Manila] PHP Notice:  Undefined variable: semester in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 82
+[12-Aug-2020 07:27:04 Asia/Manila] PHP Notice:  Undefined variable: academicYear in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 88
+[12-Aug-2020 07:27:04 Asia/Manila] PHP Notice:  Undefined variable: idNumber in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 93
+[12-Aug-2020 07:27:04 Asia/Manila] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 94
+[12-Aug-2020 07:27:04 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 95
+[12-Aug-2020 07:27:04 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 95
+[12-Aug-2020 07:27:04 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 95
+[12-Aug-2020 07:27:04 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 95
+[12-Aug-2020 07:27:04 Asia/Manila] PHP Notice:  Undefined variable: idNumber in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 97
+[12-Aug-2020 07:27:04 Asia/Manila] PHP Notice:  Undefined variable: idNumber in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 114
+[12-Aug-2020 07:27:04 Asia/Manila] PHP Notice:  Undefined variable: academicYear in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 114
+[12-Aug-2020 07:27:04 Asia/Manila] PHP Notice:  Undefined variable: semester in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 114
+[12-Aug-2020 07:27:04 Asia/Manila] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 115
+[12-Aug-2020 07:27:04 Asia/Manila] PHP Notice:  Undefined variable: idNumber in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 145
+[18-Aug-2020 10:20:36 Asia/Manila] PHP Warning:  mysqli_query(): (08S01/1053): Server shutdown in progress in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 114
+[18-Aug-2020 10:20:36 Asia/Manila] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 115
+[18-Aug-2020 10:20:36 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/connection.php on line 14
+[18-Aug-2020 10:20:36 Asia/Manila] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/connection.php on line 15
+[18-Aug-2020 10:20:36 Asia/Manila] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 7
+[18-Aug-2020 10:20:36 Asia/Manila] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 8
+[18-Aug-2020 10:20:36 Asia/Manila] PHP Notice:  Undefined variable: semester in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 67
+[18-Aug-2020 10:20:36 Asia/Manila] PHP Notice:  Undefined variable: semester in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 69
+[18-Aug-2020 10:20:36 Asia/Manila] PHP Notice:  Undefined variable: academicYear in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 75
+[18-Aug-2020 10:20:36 Asia/Manila] PHP Notice:  Undefined variable: semester in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 80
+[18-Aug-2020 10:20:36 Asia/Manila] PHP Notice:  Undefined variable: semester in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 82
+[18-Aug-2020 10:20:36 Asia/Manila] PHP Notice:  Undefined variable: academicYear in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 88
+[18-Aug-2020 10:20:36 Asia/Manila] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 93
+[18-Aug-2020 10:20:36 Asia/Manila] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 94
+[18-Aug-2020 10:20:36 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 95
+[18-Aug-2020 10:20:36 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 95
+[18-Aug-2020 10:20:36 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 95
+[18-Aug-2020 10:20:36 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 95
+[18-Aug-2020 10:20:36 Asia/Manila] PHP Notice:  Undefined variable: academicYear in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 114
+[18-Aug-2020 10:20:36 Asia/Manila] PHP Notice:  Undefined variable: semester in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 114
+[18-Aug-2020 10:20:36 Asia/Manila] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 114
+[18-Aug-2020 10:20:36 Asia/Manila] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 115
+[18-Aug-2020 10:25:55 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/connection.php on line 14
+[18-Aug-2020 10:25:55 Asia/Manila] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/connection.php on line 15
+[18-Aug-2020 10:25:55 Asia/Manila] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 7
+[18-Aug-2020 10:25:55 Asia/Manila] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 8
+[18-Aug-2020 10:25:55 Asia/Manila] PHP Notice:  Undefined variable: semester in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 67
+[18-Aug-2020 10:25:55 Asia/Manila] PHP Notice:  Undefined variable: semester in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 69
+[18-Aug-2020 10:25:55 Asia/Manila] PHP Notice:  Undefined variable: academicYear in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 75
+[18-Aug-2020 10:25:55 Asia/Manila] PHP Notice:  Undefined variable: semester in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 80
+[18-Aug-2020 10:25:55 Asia/Manila] PHP Notice:  Undefined variable: semester in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 82
+[18-Aug-2020 10:25:55 Asia/Manila] PHP Notice:  Undefined variable: academicYear in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 88
+[18-Aug-2020 10:25:55 Asia/Manila] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 93
+[18-Aug-2020 10:25:55 Asia/Manila] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 94
+[18-Aug-2020 10:25:55 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 95
+[18-Aug-2020 10:25:55 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 95
+[18-Aug-2020 10:25:55 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 95
+[18-Aug-2020 10:25:55 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 95
+[18-Aug-2020 10:25:55 Asia/Manila] PHP Notice:  Undefined variable: academicYear in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 114
+[18-Aug-2020 10:25:55 Asia/Manila] PHP Notice:  Undefined variable: semester in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 114
+[18-Aug-2020 10:25:55 Asia/Manila] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 114
+[18-Aug-2020 10:25:55 Asia/Manila] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 115
+[18-Aug-2020 10:25:56 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/connection.php on line 14
+[18-Aug-2020 10:25:56 Asia/Manila] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/connection.php on line 15
+[18-Aug-2020 10:25:56 Asia/Manila] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 7
+[18-Aug-2020 10:25:56 Asia/Manila] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 8
+[18-Aug-2020 10:25:56 Asia/Manila] PHP Notice:  Undefined variable: semester in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 67
+[18-Aug-2020 10:25:56 Asia/Manila] PHP Notice:  Undefined variable: semester in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 69
+[18-Aug-2020 10:25:56 Asia/Manila] PHP Notice:  Undefined variable: academicYear in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 75
+[18-Aug-2020 10:25:56 Asia/Manila] PHP Notice:  Undefined variable: semester in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 80
+[18-Aug-2020 10:25:56 Asia/Manila] PHP Notice:  Undefined variable: semester in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 82
+[18-Aug-2020 10:25:56 Asia/Manila] PHP Notice:  Undefined variable: academicYear in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 88
+[18-Aug-2020 10:25:56 Asia/Manila] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 93
+[18-Aug-2020 10:25:56 Asia/Manila] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 94
+[18-Aug-2020 10:25:56 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 95
+[18-Aug-2020 10:25:56 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 95
+[18-Aug-2020 10:25:56 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 95
+[18-Aug-2020 10:25:56 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 95
+[18-Aug-2020 10:25:56 Asia/Manila] PHP Notice:  Undefined variable: academicYear in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 114
+[18-Aug-2020 10:25:56 Asia/Manila] PHP Notice:  Undefined variable: semester in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 114
+[18-Aug-2020 10:25:56 Asia/Manila] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 114
+[18-Aug-2020 10:25:56 Asia/Manila] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 115
+[18-Aug-2020 11:16:50 Asia/Manila] PHP Notice:  Undefined variable: idNumber in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 60
+[18-Aug-2020 11:16:50 Asia/Manila] PHP Notice:  Undefined variable: semester in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 67
+[18-Aug-2020 11:16:50 Asia/Manila] PHP Notice:  Undefined variable: semester in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 69
+[18-Aug-2020 11:16:50 Asia/Manila] PHP Notice:  Undefined variable: academicYear in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 75
+[18-Aug-2020 11:16:50 Asia/Manila] PHP Notice:  Undefined variable: semester in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 80
+[18-Aug-2020 11:16:50 Asia/Manila] PHP Notice:  Undefined variable: semester in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 82
+[18-Aug-2020 11:16:50 Asia/Manila] PHP Notice:  Undefined variable: academicYear in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 88
+[18-Aug-2020 11:16:50 Asia/Manila] PHP Notice:  Undefined variable: idNumber in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 93
+[18-Aug-2020 11:16:50 Asia/Manila] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 94
+[18-Aug-2020 11:16:50 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 95
+[18-Aug-2020 11:16:50 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 95
+[18-Aug-2020 11:16:50 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 95
+[18-Aug-2020 11:16:50 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 95
+[18-Aug-2020 11:16:50 Asia/Manila] PHP Notice:  Undefined variable: idNumber in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 97
+[18-Aug-2020 11:16:50 Asia/Manila] PHP Notice:  Undefined variable: idNumber in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 114
+[18-Aug-2020 11:16:50 Asia/Manila] PHP Notice:  Undefined variable: academicYear in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 114
+[18-Aug-2020 11:16:50 Asia/Manila] PHP Notice:  Undefined variable: semester in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 114
+[18-Aug-2020 11:16:50 Asia/Manila] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 115
+[18-Aug-2020 11:16:50 Asia/Manila] PHP Notice:  Undefined variable: idNumber in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 145
+[18-Aug-2020 14:08:34 Asia/Manila] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 115
+[25-Aug-2020 13:06:15 Asia/Manila] PHP Notice:  Undefined variable: idNumber in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 60
+[25-Aug-2020 13:06:15 Asia/Manila] PHP Notice:  Undefined variable: semester in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 67
+[25-Aug-2020 13:06:15 Asia/Manila] PHP Notice:  Undefined variable: semester in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 69
+[25-Aug-2020 13:06:15 Asia/Manila] PHP Notice:  Undefined variable: academicYear in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 75
+[25-Aug-2020 13:06:15 Asia/Manila] PHP Notice:  Undefined variable: semester in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 80
+[25-Aug-2020 13:06:15 Asia/Manila] PHP Notice:  Undefined variable: semester in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 82
+[25-Aug-2020 13:06:15 Asia/Manila] PHP Notice:  Undefined variable: academicYear in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 88
+[25-Aug-2020 13:06:15 Asia/Manila] PHP Notice:  Undefined variable: idNumber in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 93
+[25-Aug-2020 13:06:15 Asia/Manila] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 94
+[25-Aug-2020 13:06:15 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 95
+[25-Aug-2020 13:06:15 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 95
+[25-Aug-2020 13:06:15 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 95
+[25-Aug-2020 13:06:15 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 95
+[25-Aug-2020 13:06:15 Asia/Manila] PHP Notice:  Undefined variable: idNumber in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 97
+[25-Aug-2020 13:06:15 Asia/Manila] PHP Notice:  Undefined variable: idNumber in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 114
+[25-Aug-2020 13:06:15 Asia/Manila] PHP Notice:  Undefined variable: academicYear in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 114
+[25-Aug-2020 13:06:15 Asia/Manila] PHP Notice:  Undefined variable: semester in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 114
+[25-Aug-2020 13:06:15 Asia/Manila] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 115
+[25-Aug-2020 13:06:15 Asia/Manila] PHP Notice:  Undefined variable: idNumber in /home/gordonco/api.gordoncollegeccs.edu.ph/profily/profily-printables/schedule.php on line 145
