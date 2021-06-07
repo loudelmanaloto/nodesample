@@ -1,36 +1,11 @@
-const express = require('express');
-const app = express();
-const pool = require('./connection');
+const express = require('express')
+const app = express()
 
-app.use(express.json());
-
-app.get('/api/students', async(req, res)=>{
-    try{
-        const students = await pool.query("SELECT * FROM students_tbl");
-        console.log(students);
-    }
-    catch(err){
-        console.log(err.message);
-    }
-    
-})
+app.use(express.json())
 
 
-app.post('/api/students', async (req, res)=>{
-    try{
-      
-      const { fname, lname } = req.body;
-    ;
-      const newStudent = await pool.query("INSERT INTO students (fname, lname) VALUES ($1, $2) RETURNING *", [fname, lname]);
-      
-        res.json(newStudent.rows);
-    }
-    catch(err){
-        console.log(err.message);
-    }
-})
+require('./modules/routes/routes')(app)
 
+const PORT = process.env.PORT || 3001
 
-app.listen(5000, ()=>{
-    console.log("Server is listening on port 5000....");
-});
+app.listen(PORT, ()=>console.log(`Listening on port ${PORT}`))
